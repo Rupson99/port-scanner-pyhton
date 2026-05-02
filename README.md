@@ -42,7 +42,7 @@ See the screenshot below:
 
 
 
-!\[Output](screenshots/output.png)
+!\[Output](output.png)
 
 
 
